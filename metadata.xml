@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Horse Tranquilizer</name>
+    <directory>horsepills</directory>
+    <id>2500100200</id>
+    <description>Adds an item called Horse Tranquilizer to shop item pool and treasure room item pool, it makes all pills spawn as horse pills.</description>
+    <version>1.5</version>
+    <visibility>Public</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Pills"/>
+    <tag id="Pickups"/>
+</metadata>
